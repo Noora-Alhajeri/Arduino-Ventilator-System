@@ -113,7 +113,7 @@ The system integrates an **Arduino UNO**, **servo motors**, **LCD**, and other c
 
 ![Final Product](./figures/final_product.png)
 
-🎥 **Demo Video:** [Click to Watch](./demo.mp4)
+🎥 **Demo Video:** [Click to Watch](https://drive.google.com/file/d/1_Qcxc4jUtIRbyhwmOMmeJiB6mOGg4a5_/view?usp=sharing)
 
 ---
 
