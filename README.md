@@ -75,6 +75,7 @@ Before physical implementation, the system was simulated using TinkerCAD to ensu
 #### **Hardware Circuit**
 
 The system integrates an **Arduino UNO**, **servo motors**, **LCD**, and other components to control the breathing mechanism. Below is the hardware circuit connections diagram:
+![Hardware Circuit](./figures/hardware_circuit.png)
 
 📄 **[View Hardware Circuit Diagram](./DIAGRAM.pdf)**
 
