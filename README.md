@@ -137,4 +137,4 @@ Uploaded to GitHub: **2024**
 For questions or collaboration, feel free to reach out:
 
 📧 **Email:** [n.s3eedalhajeri@gmail.com](mailto:n.s3eedalhajeri@gmail.com)  
-🌐 **LinkedIn:** [Noora-Alhajeri](https://www.linkedin.com/in/nsh-019)
+🌐 **LinkedIn:** [Noora-Alhajeri](https://www.linkedin.com/in/nsh019)
